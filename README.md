@@ -1,10 +1,11 @@
-# X-Gorgon  X-Kronos TTEncrypt algorithms
+# X-Gorgon  X-Kronos TTEncrypt private API algorithms and more
 TikTok / Douyin encryption and X-Gorgon iOS 8404 generation
 
  - Encrypt applog, device register, appmonitor, etc.
  - Generate X-Gorgon8404 (Latest for iOS)
  - Source code of the entire algorithm in python and php
  - Test yourself before buying
+ - Reverse engineering of any other headers/encryption of the private API
  
  xg8404 Response:
 ```json
@@ -14,5 +15,5 @@ TikTok / Douyin encryption and X-Gorgon iOS 8404 generation
 
 ```
  
-## Contact here:
+## Contact here 24/7:
 email: deere32@proton.me
