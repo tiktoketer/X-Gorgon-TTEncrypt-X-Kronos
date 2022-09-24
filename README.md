@@ -15,5 +15,5 @@ TikTok / Douyin encryption and X-Gorgon iOS 8404 generation
 
 ```
  
-## Contact here 24/7:
+## Contact here 24/7 I use to answer fast:
 email: deere32@proton.me
