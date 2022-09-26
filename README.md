@@ -1,8 +1,8 @@
 # X-Gorgon  X-Kronos TTEncrypt private API algorithms and more
-TikTok / Douyin encryption and X-Gorgon iOS 8404 generation
+TikTok / Douyin encryption and X-Gorgon iOS & Android 8404 generation
 
- - Encrypt applog, device register, appmonitor, etc. (TTencrypt)
- - Generate X-Gorgon8404 (Latest for iOS)
+ - Encrypt applog, device register, appmonitor, etc. (TTencrypt) (Deprecated, working in new API)
+ - Generate X-Gorgon8404 (Latest for iOS and Android)
  - Source code of the entire algorithm in python and php
  - Test yourself before buying
  - Reverse engineering of any other headers/encryption of the private API
