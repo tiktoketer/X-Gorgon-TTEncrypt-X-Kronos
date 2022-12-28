@@ -1,7 +1,8 @@
 # X-Gorgon X-Kronos X-Argus X-Ladon private API algorithms and more
 TikTok / Douyin encryption and X-Gorgon iOS & Android 8404 generation
 
-
+ - TTEncrypt05
+ - XLog
  - Generate X-Gorgon8404 (Offline source code algorithm, Latest for iOS and Android)
  - Generate X-Ladon & X-Argus (Frida script)
  - Source code of the entire algorithm in python and php
