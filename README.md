@@ -8,6 +8,7 @@ TikTok / Douyin iOS & Android encryption algorithms in python for
  - Test yourself before buying
  - Reverse engineering of any other headers/encryption of the private API
  - X-Medusa for Douyin
+   
  xg8404 Response:
 ```json
 
