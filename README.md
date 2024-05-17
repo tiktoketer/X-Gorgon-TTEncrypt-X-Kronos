@@ -10,13 +10,6 @@ TikTok / Douyin iOS & Android encryption algorithms in python for
  - Reverse engineering of any other headers/encryption of the private API
  - X-Medusa for Douyin
    
- xg8404 Response:
-```json
-
- {"X-Gorgon":"8404982e000046a00b4839ea3b04c708a59a1c9caa77e5122269",
- "X-Khronos":1660331757}
-
-```
  
 ## Contact here 24/7 I use to answer fast, I can provide an api to test for free:
 email: deere32@proton.me
