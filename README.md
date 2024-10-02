@@ -11,5 +11,5 @@ TikTok / Douyin iOS & Android encryption algorithms in python for
  - X-Medusa for Douyin
    
  
-## Contact here 24/7 I use to answer fast, I can provide an api to test for free:
+## Contact here 24/7 fast answer, I can provide an api to test for free:
 email: deere32@proton.me
