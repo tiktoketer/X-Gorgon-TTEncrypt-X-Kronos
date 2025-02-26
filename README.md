@@ -11,7 +11,7 @@ TikTok iOS & Android encryption algorithms in python for
  - X-Medusa for Douyin
    
  
-## Contact here 24/7 fast answer, I can provide an api to test for free:
+## Contact here 24/7 fast answer:
 
 free demo: https://rapidapi.com/TikTanic/api/tiktok-api-signer
 
