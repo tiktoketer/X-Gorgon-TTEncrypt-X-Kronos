@@ -14,5 +14,5 @@ TikTok iOS & Android encryption algorithms in python for
 ## Contact here 24/7 fast answer:
 
 free demo: https://rapidapi.com/TikTanic/api/tiktok-api-signer
-
+TG : @ ThunderRev
 email: deere32@proton.me
